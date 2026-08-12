@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /dekuji.html
+
+Sitemap: https://koupit-recenze.com/sitemap.xml
